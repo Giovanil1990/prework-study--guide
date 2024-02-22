@@ -7,8 +7,8 @@
    footer {
     width: 100%;
     height: 120px;
-    background-color: rgba(202, 20, 14, 0.774);
-    color: white;
+    background-color: rgba(202, 20, 14, 0.897);
+    color: black;
    }
    
    h1,
@@ -37,6 +37,6 @@
    .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px dotted rgb(233, 6, 6);
+    border: 5px solid rgb(6, 21, 233);
     box-shadow: 5px 10px #c5a1a1;
   }
